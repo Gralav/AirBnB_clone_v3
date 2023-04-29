@@ -196,8 +196,7 @@ No known bugs at this time.
 
 ## Authors
 
-* **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge) | [LinkedIn](https://www.linkedin.com/in/pierre-beaujuge-81b75a137/) at [Holberton
-School](http://holbertonschool.com)
+* **Grace Waga** -[Github](https://github.com/Gralav)
 * **Alexa Orrico** - [Github](https://github.com/alexaorrico)
 * **Jennifer Huang** - [Github](https://github.com/jhuang10123)
 * **Joann Vuong**
