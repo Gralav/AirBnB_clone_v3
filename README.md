@@ -199,4 +199,4 @@ No known bugs at this time.
 * **Grace Waga** -[Github](https://github.com/Gralav)
 * **Alexa Orrico** - [Github](https://github.com/alexaorrico)
 * **Jennifer Huang** - [Github](https://github.com/jhuang10123)
-* **Joann Vuong**
+
